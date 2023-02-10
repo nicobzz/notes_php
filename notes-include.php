@@ -29,6 +29,8 @@ foreach($notes as $n_ligne=>$note){
     echo "note numéro ".$n_ligne.": ";
     echo($note['note']).'<br>';
    }
+
+//    Le foot c'est bien 
 ?>
 </body>
 </html>
