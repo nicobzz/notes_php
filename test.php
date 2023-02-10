@@ -1,2 +1,2 @@
 <?php
-echo 'j'aime les gens comme les animaux';
+echo 'j\'aime les gens et les animaux';
