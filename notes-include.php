@@ -16,7 +16,7 @@
     </form>
 
     <h1> La start-up Nation ! </h1>
-    
+
     <?php
     include_once('db.php');
     //inclue le fichier db.php une seule fois m^emesi on rappelle plusueireurs fois include_once('db.php');

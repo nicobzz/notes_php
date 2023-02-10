@@ -22,3 +22,6 @@ function add_note($nouvelle_note){
     $insert_note = $mysqlClient->prepare($sqlQuery);
     $insert_note->execute( array('ajout_note'=>$nouvelle_note) );
 }
+//  J'aime le foot
+
+?>
